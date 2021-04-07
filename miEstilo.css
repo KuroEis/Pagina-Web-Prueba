@@ -1,0 +1,11 @@
+/* Comentario en CSS */
+
+body{
+
+    background-color: rgb(33, 47, 60);
+    color: seashell;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    padding-left: 25px;
+
+}
